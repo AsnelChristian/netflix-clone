@@ -1,5 +1,17 @@
 import React from 'react';
 import { render } from 'react-dom';
-import App from './app';
+import { BrowserRouter } from 'react-router-dom';
 
-render(<App />, document.getElementById('root'));
+import App from './app';
+import 'normalize.css';
+import { GlobalStyles } from './global-styles';
+
+render(
+  <>
+    <GlobalStyles />
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </>,
+  document.getElementById('root')
+);
