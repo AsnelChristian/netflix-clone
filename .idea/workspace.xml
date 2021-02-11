@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7d7b0b9b-5216-4d26-a3ce-0a1161476156" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/accordion/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/accordion/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/accordion/styles/accordion.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/accordion/styles/accordion.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613061939009</updated>
       <workItem from="1613061941380" duration="762000" />
-      <workItem from="1613063006586" duration="12146000" />
+      <workItem from="1613063006586" duration="17086000" />
     </task>
     <servers />
   </component>
