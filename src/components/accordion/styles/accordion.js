@@ -4,6 +4,7 @@ export const Container = styled.div`
   display: flex;
   justify-content: center;
   border-bottom: 8px solid #222;
+  color: white;
 `;
 
 export const Inner = styled.div`
